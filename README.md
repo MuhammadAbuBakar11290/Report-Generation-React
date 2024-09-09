@@ -17,4 +17,4 @@ This project is a simple system for generating PDF reports using React and Vite.
 2. Install dependencies using `npm install`.
 3. Start the development server using `npm run dev`.
 4. Test the PDF report generation by clicking the "Download PDF" link.
->>>>>>> 3d59e86b0eeec4dc01e15be8a68845c1e796c6f3
+
